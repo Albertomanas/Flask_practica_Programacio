@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "FlaskyFlask/bin/python3.6",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true
+}
